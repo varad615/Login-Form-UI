@@ -38,6 +38,10 @@ body{
     padding: 15px;
 }
 
+.alert{
+    color: red;
+}
+
 /* checkbox */
 
 .cont {
