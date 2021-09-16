@@ -17,5 +17,5 @@ function onSubmit() {
 }
 
 function signup() {
-  console.log("welcome");
+    window.location.href = "pages/signup.html";
 }
